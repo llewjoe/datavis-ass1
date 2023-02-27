@@ -1,13 +1,43 @@
-COSMIC JOURNEYS - 50 YEARS OF SPACE EXPLORATION
-
-When reading the literature on what makes a good visualisation, or on why so many visualisations fail at presenting their data in an engaging way, you can usually expect to see one phrase pop up: KEEP IT SIMPLE.
-
-I chose to explore this visualisation mainly because it flagrantly breaks this rule. There is stuff absolutely everywhere. Somehow, though, 
+Cosmic Journeys: 50 Years of Exploration
 
 
-keep it simple - this idea is mainly for beginners. this designer knows what thye are doing
+When reading the literature on what makes a good visualisation, or on why so many visualisations fail at presenting their data in an engaging way, you can usually expect to see one idea pop up in one of various forms: KEEP IT SIMPLE. LESS IS MORE. Don’t rely on CHARTJUNK (1).
+I chose to explore a visualisation that appears to break this rule. There is stuff going on everywhere. Somehow, though, it conveys its intended message simply and instantly. It has won awards for its data presentation (2), and people to whom I’ve showed it were amazed at how quickly they grasped the data it conveys.
 
-Maps, flows
-Structure of a graphic - Bertin
+Cosmic Journeys (3) was designed by 5W Infographics to be displayed in print as a fold-out feature in National Geographic magazine (4). In a series of delicate lines, spreading out from Earth and forming concentric circles around nearby celestial bodies, Cosmic Journeys records every single mission attempted by the various space agencies of Earth, in the last 50 years.
+This subject matter has all the potential makings of a bad or boring data visualisation:
+-	Homogeneous data. 6 space agencies sending rockets toward the same clutch of planets/moons. 
+-	The subject matter is hard to grasp, full of jargon like ‘fly-bys’, ‘soft landings’, ‘gravity assists’.
+-	Outer space is massive and fundamentally unknowable. So, if Voyager 2 approached Neptune in 1989, so what?
+This data would most easily be displayed as either a bar chart that tells very little about the history of spaceflight (5), or a mess of tables and definitions more suited to a reference book. So, how does Cosmic Journeys succeed with such a striking infographic?
 
-familiarity of circles- orbits/rings of a tree to show age
+Visual language
+As I see it, the main genius of this visualisation is that it ‘translates’ its data into ways in which we can more easily process engage with the content. 
+It’s hard for our minds to understand space, and therefore more or less impossible for us to visualise. Here, the Solar System is converted from a vast 3-dimensional space into a left-to-right map, allowing us to read the Earth as a starting point. An accurate scale is sacrificed (arguably necessarily in this case (6)) in favour of visual clarity, and the creator’s desire to display the relative popularity of space destinations.
+The fundamentals of good colour choices are also present. Warm colours, reds and yellows contrast with the blackness of space. Context is given to the colours by way of yet another dataset and a small legend, but it is ancillary to the function of colour as a tool to guide the viewer’s eye into and around the graphic (7).
+
+Flattening time
+From there, Cosmic Journeys ‘flattens’ time and adds an element of spatial-temporal flow to the map (8), allowing us to follow these missions as they travel into space. We learn not only of ongoing missions, but of past exploration, and the popularity of various routes. The elegance of flow maps and their ability to marry time, distance and other discrete data into one graphic will be familiar to anyone who has studied Minard’s seminal flow map of Napoleon’s Russian campaign (9).
+ By following the delicate lines of Cosmic Journeys, we join rockets and probes on their journeys, immediately grasping concepts of ‘gravity assist’ along the way. Perhaps most beautifully, where multiple lines converge on one planet, they become a series of concentric circles. We understand circles; they indicate natural cycles. The circles of missions orbiting their planets here are reminiscent of the rings of a tree, with larger rings indicating the latest missions. We can count the circles and find the ‘age’ of our planet’s interest in the Moon. 
+Text is included to give timelines and context to the data, but it only augments the visualisation. A relative scale and in-line text boxes provide dates and information to those interested, but they are supplementary. The genius of the designers is that underneath all the information, Cosmic Journeys is fundamentally understandable with minimal labelling.
+
+
+Cosmic Journeys contains a huge amount of information and presents it in style. Rather than over-simplifying space travel, this graphic seems to reveal its data in stages. Multiple viewings are necessary to take it all in. But is this really a good visualisation of data? 
+Giorgia Lupi, known for creating beautiful, ethereal visualisations, deems it impractical to avoid complexity when conveying data in a complex world (10). Multiple, slower viewings of a visualisation allow an audience to feel their way around a topic and consider what is going on. Cosmic Journeys, a graphic designed specifically for large format print media, benefits from this philosophy of ‘slow consumption’.
+ The reality is, however, that no-one buys magazines anymore. Most of this graphic’s audience will view it on a digital screen, maybe even in a portrait aspect ratio. I will most likely never see it printed out. Rather than zooming into a huge, detailed image, a typical user may skim the image and move on. 
+No interactive or digital edition of Cosmic Journeys exists. On a small screen, the text in this visualisation is largely unreadable, and part of its visual power is undoubtedly lost. Is this a refusal, a failure to acknowledge the audience?
+
+I think that Cosmic Journeys is beautiful, but only by the restrictions it finds itself within. It breaks some rules of simplicity, but it knows its audience has the time. It is meant to look great hanging on a wall, or to be pored over at a coffee table. The true challenge for the creators would be to migrate their design into an interactive, responsive digital format. The design is certainly scalable; more rings and even new planets could be added as private corporations continue their quest to escape Earth. But would it be possible to add even more features and layers to this graphic without losing a part of what makes Cosmic Journeys so striking? Is there enough space?
+
+
+1. 	Tufte ER. The visual display of quantitative information. 2nd ed. Cheshire, Conn: Graphics Press; 2001. 197 p. 
+2. 	Cook G. The Best American Infographics 2014. Houghton Mifflin Harcourt; 2014. 159 p. 
+3. 	5W INFOGRAPHICS. [accessed 27 Feb 2023] Available from: http://www.5wgraphics.com/newsletter/5w-newsletter-2014-04-23.php
+4. 	Behance. Cosmic Journeys Infographic. Behance. 2016. [accessed 22 Feb 2023] Available from: https://www.behance.net/gallery/8985025/Cosmic-Journeys-Infographic
+5. 	Infographic: Which Countries Have Been to the Moon? Statista Infographics. 2019. [accessed 27 Feb 2023] Available from: https://www.statista.com/chart/18749/missions-to-the-moon-by-country
+6. 	The Size of Space. [accessed 27 Feb 2023] Available from: https://neal.fun/size-of-space/
+7. 	How to pick more beautiful colors for your data visualizations - Datawrapper Blog. [accessed 27 Feb 2023] Available from: https://blog.datawrapper.de/beautifulcolors/
+8. 	Meirelles I. Design for Information: An Introduction to the Histories, Theories, and Best Practices Behind Effective Information Visualizations. Rockport Publishers; 2013. 227 p. 
+9. 	The Minard Map - ‘The best statistical graphic ever drawn’. Big Think. 2010 Jul 23. [accessed 27 Feb 2023] Available from: https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/
+10. 	Lupi G. Data Humanism, the Revolution will be Visualized. Medium. 2017. [accessed 27 Feb 2023] Available from: https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb
+
